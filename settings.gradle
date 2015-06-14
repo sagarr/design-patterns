@@ -10,5 +10,6 @@
  */
 
 include 'visitor'
+include 'builder'
 
 rootProject.name = 'design-patterns'
